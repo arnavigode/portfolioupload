@@ -8,6 +8,7 @@ import About from "./components/About";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Navbar from "./components/Navbar";
+import RespNavbar from "./components/RespNavbar";
 
 
 class App extends Component {
@@ -86,7 +87,8 @@ class App extends Component {
       
       <div>
         
-        <Navbar/>
+        {/* <Navbar/> */}
+        <RespNavbar/>
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="col-md-12 mx-auto text-center language">
           <div

@@ -1,6 +1,6 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://arnavigode.github.io/my-Portfolio/",
+  "homepage": "https://arnavigode.github.io/portfolioupload/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,6 +22,7 @@
     "react-switch": "^5.0.1",
     "react-typical": "^0.1.3",
     "react-vertical-timeline-component": "^3.3.1",
+    "responsive-navbar-react": "^1.2.1",
     "styled-components": "^5.3.3"
   },
   "scripts": {
